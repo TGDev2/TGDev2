@@ -8,7 +8,7 @@ Développeur full-stack. J'aime transformer une idée en produit qui tourne : du
 |---|---|---|
 | [**ascendos**](https://github.com/TGDev2/ascendos) | Transforme des notes brutes en updates hebdo prêtes pour le sponsor, en 2 minutes. | Next.js · TypeScript · Turborepo |
 | [**calepin**](https://github.com/TGDev2/calepin) | Accompagne l'écriture d'un roman, du texte source au manuscrit exporté. | Next.js · TypeScript · Prisma |
-| [**chiffreo**](https://github.com/TGDev2/chiffreo) | Des dimensions d'une pièce à une base de commande de matériaux chiffrée. | NestJS · TypeScript · Docker |
+| [**Toisé**](https://github.com/TGDev2/toise) | Des dimensions d'une pièce à une base de commande de matériaux chiffrée. | NestJS · TypeScript · Docker |
 | [**lisible**](https://github.com/TGDev2/lisible) | Assurance qualité des sous-titres SME : score de lisibilité et dossier de preuves. | TypeScript · Turborepo |
 
 ## Web
