@@ -33,9 +33,8 @@ Développeur full-stack. J'aime transformer une idée en produit qui tourne : du
 | [**roque**](https://github.com/TGDev2/roque) | Coach d'échecs : analyse Stockfish et revue de partie. | Python · OpenCV · Stockfish |
 | [**mot-mystere**](https://github.com/TGDev2/mot-mystere) | Jeu du pendu, avec difficulté calibrée et progression. | Python · Tkinter |
 
-## Outils et jeux
+## Jeu en réseau
 
 | Projet | En une phrase | Stack |
 |---|---|---|
-| [**backlog-autopilot**](https://github.com/TGDev2/backlog-autopilot) | Exécute un backlog de développement avec Claude Code, tâche par tâche. | PowerShell · JavaScript |
 | [**touche-coule**](https://github.com/TGDev2/touche-coule) | Bataille navale en réseau. | C · sockets |
